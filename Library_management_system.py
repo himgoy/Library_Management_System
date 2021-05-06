@@ -39,7 +39,7 @@ class Library:
 
 
 def main():
-    book_list = ['Aarushi Agarwal', 'Mehul Agarwal', 'Niharika Agarwal', 'Hitesh Goyal']
+    book_list = ['Harry Potter and the Deathly Hallows', 'Harry Potter and the Philosophers Stone', 'Da Vinci Code,The', 'Fifty Shades of Grey']
     name_lib = "HIMGOY's BookStore"
 
     lib = Library(book_list, name_lib)
